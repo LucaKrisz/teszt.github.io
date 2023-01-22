@@ -1,0 +1,2 @@
+# Felsorolás
+- [x] git clone
